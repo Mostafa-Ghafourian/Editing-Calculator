@@ -1,0 +1,89 @@
+.btn{
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#input{
+    font-size: 50px;
+    width: 237px;
+    border-radius: 5px;
+    margin: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}  
+#b1{
+
+    margin-left: 20px;
+    margin-right: 15px;
+}
+#b3{    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#b4{
+    margin-left: 20px;
+    margin-right: 15px;
+}
+#b6{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#clear{
+    margin-left: 4px;
+    padding-right: 12px;
+    padding-left: 10px;
+}
+#b7{
+    margin-left: 20px;
+    margin-right: 15px;
+}
+#b9{
+    margin-left: 10px;
+    margin-right: 8px;
+}
+#b0{
+    padding-left: 11px;
+    padding-right: 11px;
+}
+#bj{
+    padding-top: 1px;
+    padding-bottom: 2px;
+    margin-left: 20px;
+    margin-right: 31px;
+    
+}
+#bta{
+    padding-top: 1px;
+    padding-right: 15px;
+    padding-left: 16px;
+    margin-left: -11px;
+}
+#bz{
+    padding-left: 11px;
+    margin-left: 9px;
+}
+#bt{
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-left: 7px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+#bm{
+    padding-left: 102.5px;
+    padding-right: 102.5px;
+    margin-bottom: 25px;
+    margin: 5px;
+    margin-left: 20px;
+
+}
+#div{
+    background-color: rgb(161, 161, 161);
+    margin: 50px;
+    width: 265px;
+    height: 345px;
+    border-radius: 15px;
+}
